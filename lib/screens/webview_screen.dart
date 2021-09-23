@@ -165,7 +165,7 @@ class _WebViewScreenState extends State<WebViewScreen> {
       children: [
         Container(
           padding: EdgeInsets.symmetric(vertical: 20),
-          child: Image.asset("assets/images/1024.png", height: 150),
+          child: Image.asset("assets/images/logo.png", height: 150),
         ),
         ListTile(
           leading: Icon(FeatherIcons.grid, color: black),

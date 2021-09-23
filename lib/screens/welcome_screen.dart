@@ -16,7 +16,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
       backgroundColor: Color(0xff222222),
       body: SafeArea(
         child: Center(
-          child: Image.asset("assets/images/1024.png", width: 200),
+          child: Image.asset("assets/images/logo_transparent.png", width: 200),
         ),
       ),
       bottomNavigationBar: Container(
